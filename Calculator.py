@@ -3,7 +3,7 @@
 
 def add(x, y):
     return x + y
-#add
+#This function add two numbers.
 # This function subtracts two numbers
 def subtract(x, y):
     return x - y
